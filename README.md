@@ -36,7 +36,7 @@ $ npm install
 
 ### What it should look like
 
-![Screenshot](screenshot.png)
+![Appointify](demo/demo.gif)
 
 ## Usage
 
